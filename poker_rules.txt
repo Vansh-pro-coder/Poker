@@ -1,0 +1,144 @@
+==================================================
+                POKER RULES
+        (Texas Hold'em - Standard Version)
+==================================================
+
+1. OVERVIEW
+-----------
+Poker is a card game where players bet on who has the
+best hand, or who can convince others to fold. This
+document covers the most popular variant: Texas Hold'em.
+
+- Played with a standard 52-card deck.
+- 2 to 10 players per table.
+- Object: Win chips/money by having the best hand at
+  showdown, or by making all other players fold.
+
+
+2. CARD RANKINGS (Hand Values - Highest to Lowest)
+---------------------------------------------------
+1. Royal Flush       - A, K, Q, J, 10, all same suit
+2. Straight Flush    - 5 cards in sequence, same suit
+3. Four of a Kind    - 4 cards of the same rank
+4. Full House        - 3 of a kind + a pair
+5. Flush             - 5 cards of the same suit (any order)
+6. Straight          - 5 cards in sequence (mixed suits)
+7. Three of a Kind   - 3 cards of the same rank
+8. Two Pair          - 2 different pairs
+9. One Pair          - 2 cards of the same rank
+10. High Card        - No combination; highest card wins
+
+Note: In case of a tie, the kicker (highest remaining
+card) decides the winner.
+
+
+3. CARD RANK ORDER (High to Low)
+---------------------------------
+A(Ace), K(King), Q(Queen), J(Jack), 10, 9, 8, 7, 6, 5, 4, 3, 2
+(Ace can also count as low, e.g., in A-2-3-4-5 straight)
+
+
+4. GAME SETUP
+-------------
+- Each player is given a starting stack of chips.
+- A dealer button (marker) rotates clockwise after each hand.
+- Two forced bets start the action:
+  * Small Blind  - placed by player left of the dealer
+  * Big Blind    - placed by player left of small blind
+                   (usually double the small blind)
+
+
+5. GAME FLOW (Betting Rounds)
+------------------------------
+
+STEP 1: HOLE CARDS (Pre-Flop)
+  - Each player is dealt 2 private cards (hole cards).
+  - Betting round begins with the player left of the big
+    blind.
+  - Options: Fold, Call, Raise.
+
+STEP 2: THE FLOP
+  - 3 community cards are dealt face-up in the middle.
+  - Betting round begins with the first active player
+    left of the dealer.
+
+STEP 3: THE TURN
+  - 1 more community card is dealt (4 total on the table).
+  - Another betting round occurs.
+
+STEP 4: THE RIVER
+  - 1 final community card is dealt (5 total on the table).
+  - Final betting round occurs.
+
+STEP 5: SHOWDOWN
+  - Remaining players reveal their hole cards.
+  - Best 5-card hand (using any combination of the 2 hole
+    cards and 5 community cards) wins the pot.
+  - If two or more players tie, the pot is split.
+
+
+6. PLAYER ACTIONS
+------------------
+- FOLD  : Give up your hand and forfeit any chance at the pot.
+- CHECK : Pass the action without betting (only if no bet
+          is currently active).
+- CALL  : Match the current bet on the table.
+- BET   : Be the first to place chips in the pot during a round.
+- RAISE : Increase the size of an existing bet.
+- ALL-IN: Bet all of your remaining chips.
+
+
+7. BETTING STRUCTURES
+-----------------------
+- No-Limit   : Players may bet any amount, up to their
+               entire stack, at any time.
+- Pot-Limit  : Maximum bet/raise is limited to the current
+               size of the pot.
+- Fixed-Limit: Bets and raises are fixed to preset amounts.
+
+
+8. THE POT AND SIDE POTS
+--------------------------
+- All bets/calls/raises go into a central "pot."
+- If a player goes all-in with fewer chips than others,
+  a "side pot" is created for the remaining players to
+  keep betting among themselves.
+- The all-in player can only win the main pot (up to the
+  amount they contributed), not the side pot(s).
+
+
+9. END OF A HAND
+------------------
+A hand ends when either:
+  a) Only one player remains (all others folded) - that
+     player wins the pot without showdown, OR
+  b) Multiple players reach showdown - best hand wins.
+
+After the hand, the dealer button moves one position
+clockwise, and a new hand begins.
+
+
+10. BASIC STRATEGY TIPS (Optional Reference)
+-----------------------------------------------
+- Starting hands like A-A, K-K, Q-Q, and A-K are strong
+  pre-flop hands.
+- Position matters: acting later in a round gives more
+  information advantage.
+- Bluffing is a valid strategy - betting/raising with a
+  weak hand to make opponents fold.
+- Pot odds: compare the cost of a call to the size of the
+  pot to decide if a call is mathematically worthwhile.
+
+
+11. COMMON VARIANTS (For Reference)
+--------------------------------------
+- Texas Hold'em   : 2 hole cards + 5 community cards (most popular)
+- Omaha           : 4 hole cards (must use exactly 2) + 5 community cards
+- Seven-Card Stud : No community cards; 7 cards dealt per
+                    player (3 down, 4 up) across multiple rounds
+- Five-Card Draw  : Each player gets 5 private cards and
+                    may discard/replace some before showdown
+
+==================================================
+              END OF POKER RULES
+==================================================

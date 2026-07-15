@@ -3,9 +3,9 @@ import deck as dk
 
 c=cd.cards
 class generate():
-    @staticmethod
-    def genrate_players(k):
-        player_1=[]
+    staticmethod
+    def genrate_players(self,k):
+        self.player_1=[]
         computer_2=[]
         computer_3=[]
         computer_4=[]
