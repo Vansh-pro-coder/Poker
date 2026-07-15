@@ -78,7 +78,7 @@ python main.py
 
 ## 📸 Screenshots
 
-(Add screenshots here after completing the project.)
+screnshots will be added soon
 
 ## 👨‍💻 Author
 
