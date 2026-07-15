@@ -1,4 +1,6 @@
 import card
+import store as st
+
 c=card.cards
 a=[]
 a=c.drawCards(card,3)
